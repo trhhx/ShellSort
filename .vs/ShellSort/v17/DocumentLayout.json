@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userss\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\ShellSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCB0A9B-4C85-421D-AFB0-C671882364D8}|ShellSort\\ShellSort.vcxproj|C:\\Users\\userss\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\ShellSort\\ShellSort\\ShellSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADCB0A9B-4C85-421D-AFB0-C671882364D8}|ShellSort\\ShellSort.vcxproj|solutionrelative:ShellSort\\ShellSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShellSort.cpp",
+              "DocumentMoniker": "C:\\Users\\userss\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\ShellSort\\ShellSort\\ShellSort.cpp",
+              "RelativeDocumentMoniker": "ShellSort\\ShellSort.cpp",
+              "ToolTip": "C:\\Users\\userss\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (3)\\ShellSort\\ShellSort\\ShellSort.cpp",
+              "RelativeToolTip": "ShellSort\\ShellSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-30T16:42:21.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

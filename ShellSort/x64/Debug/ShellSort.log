@@ -1,3 +1,4 @@
 ﻿  ShellSort.cpp
-C:\Users\Roman\source\repos\ShellSort\ShellSort\ShellSort.cpp(34,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  ShellSort.vcxproj -> C:\Users\Roman\source\repos\ShellSort\x64\Debug\ShellSort.exe
+C:\Users\userss\Desktop\Новая папка (3)\ShellSort\ShellSort\ShellSort.cpp(34,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\userss\Desktop\Новая папка (3)\ShellSort\x64\Debug\ShellSort.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ShellSort.vcxproj -> C:\Users\userss\Desktop\Новая папка (3)\ShellSort\x64\Debug\ShellSort.exe
